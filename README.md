@@ -8,7 +8,9 @@ meu nome e vivian
 
 - ultilizo esse espaço para minha organização e compartilhamento dos meus projetos desenvolvidos
 
-- você pode entrar em contato comigo@pereiraagenor05@gmail.com
+- você pode entrar em contato comigo:
+
+  pereiraagenor05@gmail.com
 
 @vivi2508
   
